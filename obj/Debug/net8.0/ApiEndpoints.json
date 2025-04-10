@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "TiendasAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TiendasAPI.DTOs.UsuarioLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TiendasAPI.Controllers.AuthController",
+    "Method": "Registrar",
+    "RelativePath": "api/Auth/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TiendasAPI.DTOs.UsuarioRegistroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TiendasAPI.Controllers.UsuariosController",
     "Method": "GetUsuarios",
     "RelativePath": "api/Usuarios",

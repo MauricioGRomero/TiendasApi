@@ -166,3 +166,6 @@ C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\obj\Debug\net8.0\refint
 C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\obj\Debug\net8.0\TiendasAPI.pdb
 C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\obj\Debug\net8.0\TiendasAPI.genruntimeconfig.cache
 C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\obj\Debug\net8.0\ref\TiendasAPI.dll
+C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\imano\OneDrive\Escritorio\TiendasAPI\TiendasAPI\obj\Debug\net8.0\TiendasAPI.sourcelink.json

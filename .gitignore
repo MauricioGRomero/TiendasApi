@@ -1,10 +1,4 @@
-# Archivos temporales de Visual Studio
-.vs/
-.vs2019/
-.vs2017/
-
-# Ignorar configuraciones de usuario y otros archivos temporales de Visual Studio
-*.user
-*.userosscache
-*.suo
-*.userprefs
+# Archivos t!.vs/TiendasAPI/FileContentIndex/
+!.vs/TiendasAPI/config/
+!.vs/TiendasAPI/v17/
+!.vs/TiendasAPI/FileContentIndex/cb080d58-894e-4349-835d-5d8991a2153d.vsidx

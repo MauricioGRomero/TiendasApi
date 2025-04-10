@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\controllers\\controllersauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:controllers\\controllersauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\services\\servicesjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:services\\servicesjwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\dtos\\\uD83D\uDCC4 dtosusuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:dtos\\\uD83D\uDCC4 dtosusuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\dtos\\dtosusuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:dtos\\dtosusuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|c:\\users\\imano\\onedrive\\escritorio\\tiendasapi\\tiendasapi\\migrations\\20250403043738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3F14CB-DECF-4563-A0F9-761ECB770252}|TiendasAPI.csproj|solutionrelative:migrations\\20250403043738_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T06:23:19.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllersAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\ControllersAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ControllersAuthController.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\ControllersAuthController.cs",
+              "RelativeToolTip": "Controllers\\ControllersAuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:39:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\services\\ServicesJwtService.cs",
+              "RelativeDocumentMoniker": "services\\ServicesJwtService.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\services\\ServicesJwtService.cs",
+              "RelativeToolTip": "services\\ServicesJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:29:56.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T04:26:31.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uD83D\uDCC4 DTOsUsuarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\DTOs\\\uD83D\uDCC4 DTOsUsuarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\\uD83D\uDCC4 DTOsUsuarioLoginDTO.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\DTOs\\\uD83D\uDCC4 DTOsUsuarioLoginDTO.cs",
+              "RelativeToolTip": "DTOs\\\uD83D\uDCC4 DTOsUsuarioLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:24:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTOsUsuarioRegistroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\DTOs\\DTOsUsuarioRegistroDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTOsUsuarioRegistroDTO.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\DTOs\\DTOsUsuarioRegistroDTO.cs",
+              "RelativeToolTip": "DTOs\\DTOsUsuarioRegistroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:22:24.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Calificacion.cs",
+              "RelativeDocumentMoniker": "Models\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Calificacion.cs",
+              "RelativeToolTip": "Models\\Calificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:19:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Tienda.cs",
+              "RelativeDocumentMoniker": "Models\\Tienda.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Tienda.cs",
+              "RelativeToolTip": "Models\\Tienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:16:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:13:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:52:35.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:36:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Servicio.cs",
+              "RelativeToolTip": "Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:22:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T02:25:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:17:05.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:18:55.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Favorito.cs",
+              "RelativeToolTip": "Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:21:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:23:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:48:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:09:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:39:36.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250403043738_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Migrations\\20250403043738_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250403043738_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\imano\\OneDrive\\Escritorio\\TiendasAPI\\TiendasAPI\\Migrations\\20250403043738_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250403043738_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:37:39.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
