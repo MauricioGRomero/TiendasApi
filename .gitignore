@@ -1,0 +1,10 @@
+# Archivos temporales de Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+
+# Ignorar configuraciones de usuario y otros archivos temporales de Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
